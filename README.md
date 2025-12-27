@@ -65,5 +65,9 @@ ML-Theorist/
 * Build interview-ready projects
 
 
+## Projects
+- Day 1: Customer Purchase Prediction (Classification)
+
+
 
 
